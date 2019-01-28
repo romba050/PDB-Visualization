@@ -1,6 +1,6 @@
 /* TEAM */
 	developer: Basile Rommes
-  E-Mail: basilerommes@hotmail.com
+  	e-mail: basilerommes@hotmail.com
   
 	developer: Alba Refoyo Martinez
 
